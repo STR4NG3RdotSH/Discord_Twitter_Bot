@@ -20,3 +20,9 @@ Yea, the bot is currently feeding many servers, but you can see it in action on 
 -- Cron file contents: `*/5 * * * * root /home/admin/projects/discord_bots/reddit/bot_twitter.sh`
 
 ***NOTE: If using sqlite, see `DiscordBotDB.png` for table structure this bot expects
+
+# History
+I developed my discord bots after KITROBIT stopped providing their services and ran a small PATREON page to generate support. I recently disabled patreon income and decided to just generalize my code and upload to GITHUB. I may tweak them over time as they all run 24/7 for various discord servers right now. If you make any positive tweaks/changes/fixes please let me know to update these repositories. 
+
+# Buy me a beer?
+Feel free to paypal me a couple bucks for a beer! `str4ng3r 4t d4ng3r d0t com`
